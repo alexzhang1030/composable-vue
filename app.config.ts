@@ -7,12 +7,12 @@ export default defineAppConfig({
     },
     aside: {
       level: 0,
-      exclude: []
+      exclude: [],
     },
     header: {
-      logo: true,
+      logo: false,
       showLinkIcon: true,
-      exclude: []
+      exclude: [],
     },
-  }
+  },
 })
