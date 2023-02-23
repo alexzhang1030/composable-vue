@@ -1,6 +1,6 @@
 {
-  "name": "docus-starter",
-  "version": "0.1.0",
+  "name": "composable-vue",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "dev": "nuxi dev",
